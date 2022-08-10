@@ -1,0 +1,52 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+
+}
+
+.navbar{
+    background-color:#28A745 ;
+    width: 100%;
+}
+
+
+.row {
+    padding-top: 30px;
+    
+}
+
+.card .list-group {
+    border-top: none;
+    
+}
+
+.price-sale {
+    color:#28A745;
+}
+
+.card-body {
+    color:#707070;
+}
+
+.card-text {
+    color: black;
+}
+
+#contacto {
+    background-color: #28A745;
+    color: white;
+}
+
+.btn{
+    width: 112px;
+    height: 40px;
+}
+
+.form-group{
+    background-color: #28A745;
+}
+
+.form-group .text-center {
+color: white;
+}
